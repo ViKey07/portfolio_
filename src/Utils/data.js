@@ -84,15 +84,25 @@ export const skills = [
 
 export const projects = [
     
+    // {
+    //     id: 1,
+    //     title: "Media Monks",
+    //     type: "Website",
+    //     image: "https://user-images.githubusercontent.com/99425379/223410658-285fcc08-32aa-4b2a-8c65-df8325fd9ef0.png",
+    //     description: "Media Monks is a website made to give information about organization which is made by a Temple. In this Website used advanced JavaScript concepts like mapping coordinates for images.",
+    //     techStack: ["React", "CSS", "JavaScript"],
+    //     github: "https://github.com/ViKey07/MediaMonks",
+    //     liveDemo: "https://extraordinary-cocada-8ad573.netlify.app"
+    // },
     {
         id: 1,
-        title: "Media Monks",
-        type: "Website",
-        image: "https://user-images.githubusercontent.com/99425379/223410658-285fcc08-32aa-4b2a-8c65-df8325fd9ef0.png",
-        description: "Media Monks is a website made to give information about organization which is made by a Temple. In this Website used advanced JavaScript concepts like mapping coordinates for images.",
-        techStack: ["React", "CSS", "JavaScript"],
-        github: "https://github.com/ViKey07/MediaMonks",
-        liveDemo: "https://extraordinary-cocada-8ad573.netlify.app"
+        title: "FMS Ecommerce Services",
+        type: "Ecommerce Website",
+        image: "https://github.com/ViKey07/PassPhoto/assets/99425379/733a2d90-bb99-4752-a55f-9fb52ac7c80a",
+        description: "Created an Ecommerce Website for FMS Delhi College to sell college merchendise products",
+        techStack: ["React", "Django"],
+        github: "https://github.com/ViKey07/frontnew.git",
+        liveDemo: "https://frontnew-1.vikey07.repl.co/"
     },
     {
         id: 2,
